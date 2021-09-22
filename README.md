@@ -19,4 +19,8 @@ Lo siguiente que haremos es comprobar que versión estamos utilizando con el com
 
 A continuacion procederemos a cambiar la version con el siguiente comando "sudo update- alternatives – config java" y seleccionaremos la versión 8.
 
+## Imagenes de la práctica
 
+<img src="creacion de maquina.jpg">
+
+          
