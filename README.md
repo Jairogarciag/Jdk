@@ -21,6 +21,11 @@ A continuacion procederemos a cambiar la version con el siguiente comando "sudo 
 
 ## Imagenes de la práctica
 
-<img src="uno.png">
+<img src="instalacion de java en ubuntu/uno.png">
 
+<img src="instalacion de java en ubuntu/dos.png">
+
+<img src="instalacion de java en ubuntu/tres.png">
+
+<img src="instalacion de java en ubuntu/cuatro.png>
           
