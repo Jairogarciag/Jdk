@@ -21,6 +21,5 @@ A continuacion procederemos a cambiar la version con el siguiente comando "sudo 
 
 ## Imagenes de la práctica
 
-<img src="creacion de maquina.jpg">
 
           
